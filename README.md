@@ -1,4 +1,4 @@
-# Example algorithms in Java 
+# Java Examples 
 
 DYNAMIC PROGRAMMING: Rod Cut, Top-Down with Memoization, Bottom-Up with Momoization
 
